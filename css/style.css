@@ -437,7 +437,7 @@ header.shadow .logo{
     justify-content: center;
     text-align: center;
     transform: rotateY(180deg);
-    padding: 20px; 
+    padding: 80px; 
 }
 .flashcard-content.flipped {
     transform: rotateY(180deg);
